@@ -48,4 +48,8 @@ The tool provides clear visibility into system activity, persistence mechanisms,
 - Digital Forensics  
 - Host-Level Security Audits  
 - Red / Blue Team Assessments  
-- Technical Evidence Collection  
+- Technical Evidence Collection
+
+<p align="left">
+  <img src="panel.png" alt="RedAudit Panel" width="500">
+</p>
